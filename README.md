@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Carolina Silva, mas pode me chamar de Cah! 👋
 
 - 🔭 Atuei 1 ano como desenvolvedora em um time de suporte nível 3
-- 🌱 Estou estudando desenvolvimento web tanto no back-end quanto no front-end
+- 🌱 Estou estudando desenvolvimento web full-stack na Trybe
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: sou apaixonada por games e tecnologia
 
@@ -15,8 +15,9 @@
   <img align="center" alt="Cah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Cah-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
-  <img align="right" alt="Cah-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/wi517Mb.jpeg">
+  <img align="center" alt="Cah-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Cah-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="right" alt="Cah-Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/wi517Mb.jpeg">
 </div>
 
 ##
