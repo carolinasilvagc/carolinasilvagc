@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carolina Silva, mas pode me chamar de Cah! 👋
+### Olá! Eu sou a Carolina Silva, mas no mundo dev, me identifico como Lolla! 👋
 
 - 🔭 Atuei 1 ano como desenvolvedora em um time de suporte nível 3
 - 🌱 Estou estudando desenvolvimento web full-stack na Trybe
