@@ -5,12 +5,7 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: sou apaixonada por games e tecnologia
 
-<div align="center">
-  <a href="https://github.com/carolinasilvagc">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=carolinasilvagc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinasilvagc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+#### Tecnologias com as quais eu trabalho:
 <div style="display: inline_block"><br>
   <img align="center" alt="Cah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,8 +21,6 @@
 
 <div align="center">
   <a href="https://instagram.com/lollacodes" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/lollaplays" target="_blank"><img align="center"  src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/BQrDF62" target="_blank"><img align="center"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carolinasilvagc08@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinasilvagc" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
